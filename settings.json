@@ -1,0 +1,9 @@
+{
+    "name": "solana-dapp",
+    "blocks": {
+        "/blockchain/solana": true,
+        "/blockchain/solana/rust": true,
+        "/framework/react": true,
+        "/category/examples/core-hello_dev": true
+    }
+}
